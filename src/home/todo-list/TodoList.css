@@ -1,0 +1,21 @@
+.home-todo-list {
+    list-style-type: none;
+    margin: 0;
+}
+
+.home-todo-list li {
+	display: flex;
+	justify-content: space-between;
+    padding: 24px 12px;
+    border: 1px solid #c7c2c2;
+    border-radius: 2px;
+}
+
+.home-todo-list li input[type="checkbox"] {
+	margin: 0 24px 2px 0;
+}
+
+.home-categories .icon-edit {
+    margin: 0 5px;
+    cursor: pointer;
+}

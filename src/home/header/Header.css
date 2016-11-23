@@ -1,0 +1,23 @@
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #0088cc;
+    padding: 18px 12px;
+    color: #fff;
+}
+
+.header-container-text {
+    font-size: 24px;
+}
+
+.header-container-checkbox[type="checkbox"] {
+    margin: 0;
+}
+
+.header-container-search[type="text"] {
+    margin: 0 30px;
+}
+
+.header-container-inputs {
+}

@@ -1,0 +1,14 @@
+.item-container {
+	display: flex;
+}
+
+.item-container-categories {
+	width: 25%;
+	padding: 12px;
+}
+
+.item-container-todos {
+	width: 75%;
+	padding: 12px;
+	text-align: right;
+}

@@ -1,0 +1,14 @@
+.home-container {
+	display: flex;
+}
+
+.home-container-categories {
+	width: 25%;
+	padding: 12px;
+}
+
+.home-container-todos {
+	width: 75%;
+	padding: 12px;
+	text-align: right;
+}

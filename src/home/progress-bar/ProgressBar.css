@@ -1,0 +1,12 @@
+.progress-bar {
+	width:  100%;
+	border: 1px solid #889494;
+	font-size: 0;
+    line-height: 0;
+}
+
+.progress-bar-line {
+    display: inline-block;
+    height: 10px;
+    background-color: #d4d8d8;;
+}

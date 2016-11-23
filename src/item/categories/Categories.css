@@ -1,0 +1,18 @@
+.item-categories {
+    list-style-type: none;
+    margin: 0;
+    color: #0088cc;
+}
+
+.item-categories li {
+	display: flex;
+	justify-content: space-between;
+    padding: 3px 6px;
+    border: 1px solid #c7c2c2;
+    border-radius: 2px;
+}
+
+.item-categories .icon-share-alt {
+    margin: 0 5px;
+    cursor: pointer;
+}

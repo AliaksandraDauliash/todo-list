@@ -1,0 +1,22 @@
+.home-categories {
+    list-style-type: none;
+    margin: 0;
+    color: #0088cc;
+}
+
+.home-categories li {
+	display: flex;
+	justify-content: space-between;
+    padding: 3px 6px;
+    border: 1px solid #c7c2c2;
+    border-radius: 2px;
+}
+
+.home-categories .icon-edit, 
+.home-categories .icon-trash,
+.home-categories .icon-plus,
+.home-categories .icon-chevron-up {
+    margin: 0 5px;
+    cursor: pointer;
+}
+

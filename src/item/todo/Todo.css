@@ -1,0 +1,12 @@
+.item-todo {
+	text-align: left
+}
+
+.item-todo input[type="checkbox"] {
+	margin: 0 5px;
+}
+
+.item-todo-textarea {
+    width: 100%;
+    box-sizing: border-box;
+}
